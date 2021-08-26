@@ -1,5 +1,7 @@
 # Graph Constrained Data Representation Learning for Human Motion Segmentation (ICCV 2021)
 
+
+# Abstract
 Recently, transfer subspace learning based approaches have shown to be a valid alternative to unsupervised subspace clustering and temporal data clustering  for human motion segmentation (HMS). These approaches leverage prior knowledge from a source domain to improve clustering performance on a target domain, and currently they represent the state of the art in HMS.
 
 Bucking this trend, in this paper, we propose a novel unsupervised model that learns a representation of the data and digs clustering information from the data itself. Our model is reminiscent of temporal subspace clustering, but presents two critical differences. 
@@ -8,6 +10,9 @@ Second, we introduce a regularization term for this auxiliary data matrix that p
 The proposed model is efficiently optimized by using an original Alternating Direction Method of Multipliers (ADMM) formulation allowing to learn jointly the auxiliary data representation, a nonnegative dictionary and a coding matrix. 
 
 Experimental results on four benchmark datasets for HMS demonstrate that our approach achieves significantly better clustering performance then state-of-the-art methods, including both unsupervised and more recent semi-supervised transfer learning approaches. 
+
+#
+
 ![ImagenDGE-TSC-NoNLSS-2-v1](https://user-images.githubusercontent.com/50593288/129836762-22641599-dc30-415d-a74c-0f6dabc665cc.png)
 
 # Citation
