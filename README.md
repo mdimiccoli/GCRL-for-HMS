@@ -1,7 +1,8 @@
-# Graph Constrained Data Representation Learning for Human Motion Segmentation (ICCV 2021)
+# Graph Constrained Data Representation Learning for Human Motion Segmentation
 
+The repository contains our results and PyTorch code for the proposed algorithm described in our Graph Constrained Data Representation Learning for Human Motion Segmentation ICCV 2021 [paper](https://arxiv.org/pdf/2107.13362.pdf).
 
-# Abstract
+## <sub> Abstract </sub>
 Recently, transfer subspace learning based approaches have shown to be a valid alternative to unsupervised subspace clustering and temporal data clustering  for human motion segmentation (HMS). These approaches leverage prior knowledge from a source domain to improve clustering performance on a target domain, and currently they represent the state of the art in HMS.
 
 Bucking this trend, in this paper, we propose a novel unsupervised model that learns a representation of the data and digs clustering information from the data itself. Our model is reminiscent of temporal subspace clustering, but presents two critical differences. 
@@ -13,9 +14,13 @@ Experimental results on four benchmark datasets for HMS demonstrate that our app
 
 #
 
+
+
+## <sub> code TBA soon </sub>
+#
 ![ImagenDGE-TSC-NoNLSS-2-v1](https://user-images.githubusercontent.com/50593288/129836762-22641599-dc30-415d-a74c-0f6dabc665cc.png)
 
-# Citation
+## Citation
 @InProceedings{Dimiccoli_2021_ICCV,
 
 author = {Dimiccoli, Mariella and Garrido, Lluis and Rodriguez-Corominas, Guillem and Wendt, Herwig},
