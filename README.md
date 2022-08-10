@@ -13,11 +13,6 @@ The proposed model is efficiently optimized by using an original Alternating Dir
 Experimental results on four benchmark datasets for HMS demonstrate that our approach achieves significantly better clustering performance then state-of-the-art methods, including both unsupervised and more recent semi-supervised transfer learning approaches. 
 
 #
-
-
-
-## <sub> code TBA soon </sub>
-#
 ![ImagenDGE-TSC-NoNLSS-2-v1](https://user-images.githubusercontent.com/50593288/129836762-22641599-dc30-415d-a74c-0f6dabc665cc.png)
 
 ## Citation
